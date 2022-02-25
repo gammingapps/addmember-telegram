@@ -1,0 +1,21 @@
+ 14  config.example.json 
+@@ -1,12 +1,12 @@
+{
+	"group_target": 1398120166,
+	"group_source": 1490302444,
+	"from_date_active": "20201114",
+	"group_target": 1618914781,
+	"group_source": 1741935856,
+	"from_date_active": "1618914781",
+	"accounts": [
+		{
+			"phone": "+84XXXX",
+			"api_id": 1234566,
+			"api_hash": "57c6f3c72c2f21676d53be2eXXXXXX"
+			"phone": "+6281911214878",
+			"api_id": 17393350,
+			"api_hash": "c2ab3a7f88fa2962065f0bfe5d7e2f85"
+		}
+	]
+} 
+}
